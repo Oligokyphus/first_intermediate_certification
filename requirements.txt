@@ -1,0 +1,7 @@
+pandas==2.0.2
+streamlit==1.25.0
+streamlit-book==0.7.5
+streamlit-option-menu==0.3.6
+bokeh==2.4.3
+numpy==1.25.0
+scipy==1.11.1
